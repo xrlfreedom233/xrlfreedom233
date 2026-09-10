@@ -43,11 +43,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xrlfreedom233&show_icons=true&count_private=true&theme=tokyonight&line_height=28&hide_border=true" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xrlfreedom233&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xrlfreedom233&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
