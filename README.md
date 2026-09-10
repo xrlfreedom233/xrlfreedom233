@@ -43,25 +43,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xrlfreedom233&show_icons=true&count_private=true&theme=tokyonight&line_height=28&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrlfreedom233&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xrlfreedom233&show_icons=true&count_private=true&theme=tokyonight&line_height=28&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xrlfreedom233&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xrlfreedom233&theme=tokyonight&hide_border=true" height="160" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xrlfreedom233&theme=tokyonight&no-frame=true&column=7&margin-w=8" width="100%" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xrlfreedom233&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</a>
 
 ---
 
